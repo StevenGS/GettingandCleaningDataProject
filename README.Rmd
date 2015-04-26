@@ -1,0 +1,7 @@
+---
+title: "README"
+output: html_document
+---
+
+run_analysis.R creates a new tidy data set tidydata.
+codebook.md contains descriptive variable names.
